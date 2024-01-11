@@ -80,7 +80,7 @@ const obs = new IntersectionObserver(
   }
 );
 obs.observe(sectionHeroEl);
-w;
+
 // Close mob nav
 
 // https://unpkg.com/smoothscroll-polyfill@0.4.4/dist/smoothscroll.min.js
