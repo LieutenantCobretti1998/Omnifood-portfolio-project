@@ -1,5 +1,7 @@
 # Omnifood Portfolio Project
 
+you can look for final product here -> https://omnifood-aakarsh.netlify.app/
+
 ## Purpose
 This is a Portfolio Project for my employees and also for the checking progress mark of my IT path
 
